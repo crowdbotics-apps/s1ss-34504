@@ -37,7 +37,7 @@ export class Blank extends React.Component {
 
 const styles = StyleSheet.create({
   ScrollView_1: { backgroundColor: "rgba(255, 255, 255, 1)" },
-  View_2: { height: hp("111%") }
+ 
 })
 
 const mapStateToProps = state => {
